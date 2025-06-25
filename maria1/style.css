@@ -1,0 +1,26 @@
+h1{
+ color: #fd48b8;
+ background-color: #ffb066;
+}
+hr{
+    color: #ffb066;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.pistache {
+    width: 46%;
+    background-color: #ffb066;
+    padding: 20px;
+    text-align: center;
+    font-size:x-large;
+}
+.chocolate {
+    width: 46%;
+    background-color: #fd48b8;
+    padding: 20px;
+    text-align: center;
+    font-size: x-large;
+}
